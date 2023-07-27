@@ -1,0 +1,46 @@
+.c1{
+    color: blue;
+}
+h1{
+    border-style: dashed;
+    border-width: 5px;
+    border-color: yellow;
+    color: #f01515;
+}
+h2{
+     border-style: solid dashed dotted;
+    border-width: 5px 10px 20px;
+    border-color: red green blue;
+    color:deeppink;
+}
+h3{
+    border-style: solid;
+    border-width: 5px 10px 20px 30px;
+    border-color: red green blue purple;
+    color:#d86a1a;
+     border-radius: 10px;
+}
+h4{
+    border-bottom: 10px dashed #f50b80;
+   
+}
+.c1{
+   background-image: url("image/cactus.jpg");
+   background-repeat: no-repeat;
+   background-attachment: fixed;   
+}
+.c2 #p2{
+    height: 300px;
+    width: 300px;
+    border: 5px solid green;
+}
+.c2{
+    background-image: url("image/cactus2.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: darkred;
+    
+}
+.c2 #p3{
+    color: red;
+}
